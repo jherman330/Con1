@@ -12,6 +12,7 @@ namespace Con1
         {
             var trap = 123;
             var change1 = 1;
+            var f1 = "a new feature";
         }
     }
 }
