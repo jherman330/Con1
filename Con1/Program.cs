@@ -11,6 +11,7 @@ namespace Con1
         static void Main(string[] args)
         {
             var trap = 123;
+            var change1 = 1;
         }
     }
 }
