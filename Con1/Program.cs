@@ -13,6 +13,7 @@ namespace Con1
             var trap = 123;
             var change1 = 1;
             var f1 = "a new feature";
+            f1 = "did some more work locally in the same branch but another commit locally";
         }
     }
 }
